@@ -1,5 +1,5 @@
 ---
-name: [Epic] Development of a new feature
+name: '[Epic] Development of a new feature'
 about: ''
 title: ''
 labels: []
