@@ -1,6 +1,6 @@
 ---
 name: '[Epic] Development of a new feature'
-about: ''
+about: 'An epic'
 title: ''
 labels: []
 assignees: ''
